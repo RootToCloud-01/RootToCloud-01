@@ -26,14 +26,13 @@
 Name     : Shah Newaj Ahmed Zitu
 Handle   : roottocloud
 Focus    : Linux Sysadmin · DevOps · Cloud Security
-Location : Dhaka, Bangladesh 🇧🇩  →  Kobe, Japan 🇯🇵 (Sep 2026)
 Status   : Open to remote work & freelance contracts
 ```
 
 I'm a self-taught Linux and DevOps practitioner building toward a career in cloud security.
 I document everything I build — every hardened server, every automated pipeline, every deployed stack — so you can see exactly how I think and work.
 
-> **No fluff. Real servers. Working configs. Documented steps.**
+> **Real servers. Working configs. Documented steps.**
 
 ---
 
